@@ -1,3 +1,5 @@
+[Open project](https://test-task-4igo.onrender.com/)
+
 ### Installing
 
 To install all dependencies, run the following command:
